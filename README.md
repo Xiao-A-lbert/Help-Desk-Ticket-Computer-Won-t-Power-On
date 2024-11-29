@@ -45,7 +45,8 @@ Then, I would check the CMOS battery on the motherboard and either reset it by u
 
 <br />
 <br />
-Next, I would check the PSU connection to the motherboard by inspecting for signs for visible damange. 
+Next, I would check the PSU connection to the motherboard by inspecting for signs for visible damange.
+
 ![5) power-supply-to-motherboard-diagram](https://github.com/user-attachments/assets/251d1d46-ae32-4b09-ba9a-b559baac621a)
 
 <br />
